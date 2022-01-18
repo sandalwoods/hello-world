@@ -1,2 +1,3 @@
 *.js
-.env
+/hello/.env
+.DS_Store
